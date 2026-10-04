@@ -1,7 +1,7 @@
 
 def display_result(name, total, average, grade):
     print("\n" + "=" * 35)
-    print("          STUDENT RESULT")
+    print("          STUDENT RESULT SHEET")
     print("=" * 35)
     print(f"Student Name : {name}")
     print(f"Total Marks  : {total:g} / 300")
